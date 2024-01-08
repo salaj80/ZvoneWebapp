@@ -49,7 +49,9 @@ const Navbar = () => {
         <li className='p-4 border-b border-gray-600'>
         <a href='#pricing'>Pricing</a>
         </li>
-        <li className='p-4'>Contact</li> 
+        <li className='p-4'>
+        <a href='#contact'>Contact</a>
+        </li> 
         </ul>
       </div>
     </div>
