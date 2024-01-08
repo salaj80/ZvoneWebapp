@@ -3,6 +3,7 @@ import Navbar from './components/navbar';
 import Hero from './components/hero';
 import Analytics from './components/analytics';
 import Mailform from './components/mailform';
+import Contact from './components/contact';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero/>
       <Analytics/>
       <Mailform/>
+      <Contact/>
     </div>
   );
 }
